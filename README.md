@@ -2,6 +2,7 @@
                                                                                                                                                                                                                                                                                                                                                             <div><h3 align="left">Socials:</h3>
 <a href="https://twitter.com/bigkill_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="bigkill_dev" height="30" width="40" /></a><a href="https://instagram.com/bigkill.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="bigkill.dev" height="30" width="40" /></a></p>
 
+<br>
 <h3 algin="left">Skills:</h3>
 
 <br>
