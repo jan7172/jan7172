@@ -2,6 +2,9 @@
                                                                                                                                                                                                                                                                                                                                                             <div><h3 align="left">Socials:</h3>
 <a href="https://twitter.com/bigkill_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="bigkill_dev" height="30" width="40" /></a><a href="https://instagram.com/bigkill.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="bigkill.dev" height="30" width="40" /></a></p>
 
+<br>
+<br>
+
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/></code>
